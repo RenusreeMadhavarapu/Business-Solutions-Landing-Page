@@ -2,7 +2,7 @@
 
 ## Responive Business Solutions Landing Page
 
-- It is a Responsive Business Solutions Landing Page built uisng HTML & CSS.
+- It is a Responsive Business Solutions Landing Page built using HTML & CSS.
 - Media Queries(CSS) used to make webpage responsive.
 
 
