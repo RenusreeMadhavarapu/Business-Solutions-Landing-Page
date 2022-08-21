@@ -9,7 +9,8 @@
 ## Screenshots
 
 
-![Screenshot 2022-08-21 at 11-00-54 Business Solutions](https://user-images.githubusercontent.com/110158807/185777124-c9368177-17b3-4435-8d03-55925185b691.png)
+![ScreenshBusiness Solutions](https://user-images.githubusercontent.com/110158807/185777283-4a2ffe89-42c6-45c2-b69f-9e281c3f69bb.png)
+
 
 
  ### Learned Concepts
